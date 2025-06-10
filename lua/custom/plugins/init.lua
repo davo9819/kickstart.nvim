@@ -5,5 +5,5 @@
 return {
   { 'akinsho/bufferline.nvim', version = '*', dependencies = 'nvim-tree/nvim-web-devicons', opts = {} },
   'mbbill/undotree',
-  'github/copilot.vim',
+  -- 'github/copilot.vim',
 }
